@@ -44,14 +44,7 @@ const Home = () => {
           <section className="intro">
             <ContactBtn />
             <Intro />
-            <div className="resume-btn-wrap">
-              <CTABtn
-                text="Resume"
-                link="https://drive.google.com/file/d/1_cAMkys07aDdbtoDAwwCRVtqqoJzfbbe/view?usp=sharing"
-                padding="clamp(8px, 2px + 1vw, 10px)"
-                width="clamp(120px, 90px + 10vw ,220px)"
-              />
-            </div>
+           
           </section>
           <section className="work" id="work">
             <SectionTitle title="Selected Works :" />
@@ -65,7 +58,7 @@ const Home = () => {
           </section>
           <section className="about" id="about">
             <article>
-              <SectionTitle title="About Me and _Myself :" />
+              <SectionTitle title="About Me, Myself and I :" />
             </article>
             <div>
               <AboutText />

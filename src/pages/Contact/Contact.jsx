@@ -159,11 +159,7 @@ const Contact = () => {
                 Submit
               </motion.button>
               <p className="error">{error}</p>
-              <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Dolorum est possimus ipsum fuga adipisci quis dolorem ea,
-                consequuntur autem nemo?
-              </p>
+              
             </form>
           </motion.div>
         </div>

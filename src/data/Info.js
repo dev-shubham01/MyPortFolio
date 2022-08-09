@@ -4,8 +4,8 @@ export const IntroInfo = () => {
   return (
     <>
       <p>
-        Myself Abhiraj Maid and I'm in freshman year of my college pursuing IT
-        engineering degree. Also 3* coder at CodeChef. Two things I can't live
+        Myself Shubham Pandey and I'm in final year of my college pursuing IT
+        engineering degree. Also a web developer. Two things I can't live
         without Coffee and Coding <br />
         "I write code, love code, live code."
       </p>
@@ -21,40 +21,20 @@ export const AboutInfo = () => {
   return (
     <>
       <p>
-        I am Programming enthusiast and fullstack Web developer.
+        I am a Programming enthusiast and Web developer.
         <br />
         <br />
-        Currently pursuing my BTech (Engineering) degree in IT and honestly
-        engineering is fun 😅.
-        {/* <br />I also run NEWS media company{" "}
-        <a
-          href="https://www.eternalmac.com"
-          target="_blank"
-          style={style}
-          rel="noreferrer"
-        >
-          Eternalmac.com
-        </a>{" "}
-        Where we post all tech news for techies. */}
-        <br />
-        <br />I love exploring different kind of fields and I do 3d-designing
-        and animations in Blender. And I have few good{" "}
-        <a
-          href="https://www.artstation.com/codersground404"
-          target="_blank"
-          style={style}
-          rel="noreferrer"
-        >
-          projects on Artstation
-        </a>{" "}
-        too. Definitely check those out.
+        Currently pursuing my B.Tech in IT from Indian Institute Of Information
+        Technology Vadodara
         <br />
         <br />
-        At last, Feel free to{" "}
+        In my spare time I like to watch anime and sometimes play FPS games as well😉
+        <br />
+        <br/>
+        Feel free to{" "}
         <a href="/contact" style={style}>
           Contact ME.
         </a>{" "}
-        We can listen to good POP music together 🎧.
       </p>
     </>
   );

@@ -39,7 +39,7 @@ const SocialConnect = ({ dim, size }) => {
         />
         <Socials
           text="linkedin"
-          to="linkedin.com/in/shubham-pandey-a74716199"
+          to="https://linkedin.com/in/shubham-pandey-a74716199"
           dimenssion={dim}
           fontSize={size}
         />

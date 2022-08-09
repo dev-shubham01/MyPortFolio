@@ -25,7 +25,6 @@ const SkillsIntro = () => {
         <div>
           <Marquee text="Web-Development" />
           <Marquee text="Competetive Programming" />
-          <Marquee text="UI/UX Designer" />
         </div>
       </div>
     </>
