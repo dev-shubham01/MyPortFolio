@@ -8,15 +8,15 @@ const SkillsBox = () => {
       "React",
       "Context-api",
       "React-Router-Dom",
-      "Next.js",
       "Framer Motion",
       "Styled-Components",
-      "Strapi CMS",
       "Firebase",
       "GIT and GitHub",
+      "Flutter"
+      
     ],
-    CompetetiveSkills: ["C++/C", "Data Structures", "Algorithms"],
-    Extras: ["Linux", "Blender", "VScode", "Vim", "Figma"],
+    CompetetiveSkills: ["JAVA", "Data Structures", "Algorithms","Database Management System"],
+    Extras: [ "VScode", "Figma","Android Studio"],
   };
 
   return (
