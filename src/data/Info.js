@@ -32,7 +32,7 @@ export const AboutInfo = () => {
         <br />
         <br/>
         Feel free to{" "}
-        <a href="/contact" style={style}>
+        <a href="mailto:mr.pshubham@gmail.com" style={style}>
           Contact ME.
         </a>{" "}
       </p>

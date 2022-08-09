@@ -30,7 +30,7 @@ const ContactBtn = () => {
       }}
     >
       <h3>
-        <NavLink to="/contact">
+      <a href="mailto:mr.pshubham@gmail.com">
           <motion.div
             variants={TextVarient}
             initial="initial"
@@ -39,7 +39,7 @@ const ContactBtn = () => {
             <span>Contact </span>
             <span>Me</span>
           </motion.div>
-        </NavLink>
+        </a>
       </h3>
     </motion.div>
   );
